@@ -1,0 +1,11 @@
+.bgColor1{
+    background: linear-gradient(to right, #af1124, #c6692b);
+}
+
+.bgColor2{
+    background: linear-gradient(to right, #f92233, #fe911d);
+}
+
+.colorLetra{
+    color: white;
+}
