@@ -1,11 +1,43 @@
-.bgColor1{
-    background: linear-gradient(to right, #af1124, #c6692b);
+body {
+    margin:0;
+    
 }
 
-.bgColor2{
+.bgColor{
     background: linear-gradient(to right, #f92233, #fe911d);
 }
 
 .colorLetra{
     color: white;
 }
+
+.opacity{
+    background: rgba(0, 0, 0, .3);
+}
+
+.content{
+    display: flex;
+    flex-direction: row;
+}
+
+.logoscuadrados{
+    width: 120px;
+    height: 120px;
+
+   
+}
+
+.margenLogos{
+    margin: 10% 0px 10px 0px;
+}
+
+.columna {
+    flex: 1;
+    padding: 10px;
+  }
+
+  .papi{
+    display: flex;
+    
+    margin-left: 20%;
+  }
